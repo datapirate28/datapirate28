@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/55/cc/a4/55cca47e278f0b9f25a361d6076e4daa.jpg)
-<h1 align="center">Hi 👋, I'm Hashmatullah Naybi</h1>
-<h3 align="center">On my way to become a Full Stack Software Developer.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<h1 align="left">Hi 👋, I'm Hashmatullah Naybi</h1>
+<h3 align="left">On my way to become a Full Stack Software Developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🌱 I’m currently learning **JavaScript**
 
