@@ -3,7 +3,7 @@
 <h3 align="left">On my way to become a Full Stack Software Developer.</h3>
 
 I am a passionate software enthusiast with a strong focus on Front-End Web Development and UI Design. As a lifelong learner, I actively participate in professional development activities and stay engaged in the frontend development community. I am excited about leveraging my skills and expertise to contribute to impactful projects and drive digital innovation.
-<img align="right" scr="https://github.com/datapirate28/datapirate28/blob/main/rwe.gif" width="400"/>
+<img src="https://github.com/datapirate28/datapirate28/blob/main/rwe.gif"/>
 
 
 
