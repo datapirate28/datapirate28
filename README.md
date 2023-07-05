@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/55/cc/a4/55cca47e278f0b9f25a361d6076e4daa.jpg)
 <h1 align="left">Hi 👋, I'm Hashmatullah Naybi</h1>
 <h3 align="left">On my way to become a Full Stack Software Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
 
 I am a passionate software enthusiast with a strong focus on Front-End Web Development and UI Design. As a lifelong learner, I actively participate in professional development activities and stay engaged in the frontend development community. I am excited about leveraging my skills and expertise to contribute to impactful projects and drive digital innovation.
 
