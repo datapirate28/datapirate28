@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/55/cc/a4/55cca47e278f0b9f25a361d6076e4daa.jpg)]
+![MasterHead](https://i.pinimg.com/originals/55/cc/a4/55cca47e278f0b9f25a361d6076e4daa.jpg)
 <h1 align="center">Hi 👋, I'm Hashmatullah Naybi</h1>
 <h3 align="center">On my way to become a Full Stack Software Developer.</h3>
 <img align="right" alt="coding" width="400" scr="https://gr.pinterest.com/pin/1131036893900230148/">
